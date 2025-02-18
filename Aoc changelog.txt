@@ -1,0 +1,23 @@
+**Mods**
+- Added [Abnormals Delight](https://www.curseforge.com/minecraft/mc-mods/abnormals-delight)
+- Added [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric)
+- Added [Caverns & Chasms](https://www.curseforge.com/minecraft/mc-mods/caverns-and-chasms)
+- Added [Create: Block n' Zapping](https://www.curseforge.com/minecraft/mc-mods/block-n-zapping)
+- Added [Create: Mob Spawners](https://www.curseforge.com/minecraft/mc-mods/create-mob-spawners)
+- Added [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
+- Added [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery)
+- Added [Open Parties and Claims PvP Support](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims-pvp-support)
+- Added [Savage & Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage)
+- Removed [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance)
+- Updated most mods
+
+**Changes**
+- The Fueling and Filling Tank can be filled with a Spout
+- Added exoskeleton arm rendering in first person
+- Added a Netherite Jetpack, which allows the player to swim in lava
+- Drones and modules are now unbreakable by players other than the owner
+- Added an emissive texture to Blazed tools
+- Added a new Recipe for Deepslate
+- Added recipe for Bulk Haunting Charcoal into Coal
+- Changed Incinerator recipe to require Mechanical Crafter
+- Other minor changes
